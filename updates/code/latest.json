@@ -1,13 +1,13 @@
 {
   "app": "code",
   "name": "ORBIT Code",
-  "version": "1.2.0",
-  "date": "2026-11-17T03:19:05.775Z",
-  "notes": "First public release.",
-  "url": "https://github.com/0utkastt666/Kast-applications/releases/download/code_v1.2.0/ORBIT.Code.Setup.1.2.0.exe",
-  "setup": "https://github.com/0utkastt666/Kast-applications/releases/download/code_v1.2.0/ORBIT.Code.Setup.1.2.0.exe",
-  "portable": "https://github.com/0utkastt666/Kast-applications/releases/download/code_v1.2.0/ORBIT.Code.Portable.1.2.0.exe",
-  "size": 104144536,
-  "sha512": "pQOYZzjdRqWDWXWtWSyTswShvY7crZ+/G7pB5QhGo2aTIoY4STiFvGCZD98NDtOTQr5cR1JUgTZZvY+scM/9VA==",
-  "page": "https://github.com/0utkastt666/Kast-applications/releases/tag/code_v1.2.0"
+  "version": "1.2.1",
+  "date": "2026-11-17T06:03:54.700Z",
+  "notes": "New learning programs for every coding language, custom icons, smoother performance and UI fixes",
+  "url": "https://github.com/0utkastt666/Kast-applications/releases/download/code_v1.2.1/ORBIT.Code.Setup.1.2.1.exe",
+  "setup": "https://github.com/0utkastt666/Kast-applications/releases/download/code_v1.2.1/ORBIT.Code.Setup.1.2.1.exe",
+  "portable": "https://github.com/0utkastt666/Kast-applications/releases/download/code_v1.2.1/ORBIT.Code.Portable.1.2.1.exe",
+  "size": 104147439,
+  "sha512": "q7zCi/FMctKj/jUxF0t42mMObUHmc91Zt0WmFrSS/aN9WP8vAr1IvqnDV0pv5pCAKe6uAH/z6Y+ki3WIhXsS7w==",
+  "page": "https://github.com/0utkastt666/Kast-applications/releases/tag/code_v1.2.1"
 }

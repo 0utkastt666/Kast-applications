@@ -1,13 +1,13 @@
 {
   "app": "academy",
   "name": "ORBIT Academy",
-  "version": "1.2.0",
-  "date": "2026-11-17T03:18:54.013Z",
-  "notes": "First public release.",
-  "url": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.0/ORBIT.Academy.Setup.1.2.0.exe",
-  "setup": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.0/ORBIT.Academy.Setup.1.2.0.exe",
-  "portable": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.0/ORBIT.Academy.Portable.1.2.0.exe",
-  "size": 101233602,
-  "sha512": "dnSDkilnIEj/ksW/a7PMlqwOcXQsfE8SVyXkwlX+ZnIdpxmVzMqgm/KLhcz3xBwFfTbMEoLEdJgeg9NLsHLnXA==",
-  "page": "https://github.com/0utkastt666/Kast-applications/releases/tag/academy_v1.2.0"
+  "version": "1.2.1",
+  "date": "2026-11-17T06:03:42.618Z",
+  "notes": "New learning programs for every coding language, custom icons, smoother performance and UI fixes",
+  "url": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.1/ORBIT.Academy.Setup.1.2.1.exe",
+  "setup": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.1/ORBIT.Academy.Setup.1.2.1.exe",
+  "portable": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.1/ORBIT.Academy.Portable.1.2.1.exe",
+  "size": 101245699,
+  "sha512": "32PbkKZvt1cOtTs/lkrgo5EiuWjci3Q0CCMjAuZsrxyIfndG0LZEL0HCZ7uAvfzWOwh1HH7KaJtU+CSg3ggo6Q==",
+  "page": "https://github.com/0utkastt666/Kast-applications/releases/tag/academy_v1.2.1"
 }

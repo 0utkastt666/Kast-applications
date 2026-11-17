@@ -1,8 +1,8 @@
-version: 1.2.0
+version: 1.2.1
 files:
-  - url: https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.0/ORBIT.Academy.Setup.1.2.0.exe
-    sha512: dnSDkilnIEj/ksW/a7PMlqwOcXQsfE8SVyXkwlX+ZnIdpxmVzMqgm/KLhcz3xBwFfTbMEoLEdJgeg9NLsHLnXA==
-    size: 101233602
-path: https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.0/ORBIT.Academy.Setup.1.2.0.exe
-sha512: dnSDkilnIEj/ksW/a7PMlqwOcXQsfE8SVyXkwlX+ZnIdpxmVzMqgm/KLhcz3xBwFfTbMEoLEdJgeg9NLsHLnXA==
-releaseDate: '2026-11-17T03:17:54.824Z'
+  - url: https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.1/ORBIT.Academy.Setup.1.2.1.exe
+    sha512: 32PbkKZvt1cOtTs/lkrgo5EiuWjci3Q0CCMjAuZsrxyIfndG0LZEL0HCZ7uAvfzWOwh1HH7KaJtU+CSg3ggo6Q==
+    size: 101245699
+path: https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.1/ORBIT.Academy.Setup.1.2.1.exe
+sha512: 32PbkKZvt1cOtTs/lkrgo5EiuWjci3Q0CCMjAuZsrxyIfndG0LZEL0HCZ7uAvfzWOwh1HH7KaJtU+CSg3ggo6Q==
+releaseDate: '2026-11-17T06:01:02.551Z'
