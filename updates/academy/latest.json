@@ -1,13 +1,13 @@
 {
   "app": "academy",
   "name": "ORBIT Academy",
-  "version": "1.2.1",
-  "date": "2026-11-17T06:03:42.618Z",
-  "notes": "New learning programs for every coding language, custom icons, smoother performance and UI fixes",
-  "url": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.1/ORBIT.Academy.Setup.1.2.1.exe",
-  "setup": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.1/ORBIT.Academy.Setup.1.2.1.exe",
-  "portable": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.1/ORBIT.Academy.Portable.1.2.1.exe",
-  "size": 101245699,
-  "sha512": "32PbkKZvt1cOtTs/lkrgo5EiuWjci3Q0CCMjAuZsrxyIfndG0LZEL0HCZ7uAvfzWOwh1HH7KaJtU+CSg3ggo6Q==",
-  "page": "https://github.com/0utkastt666/Kast-applications/releases/tag/academy_v1.2.1"
+  "version": "1.2.2",
+  "date": "2026-11-17T07:22:52.236Z",
+  "notes": "New Report an issue button in every app. Send a bug straight to Outkastt and it opens a ticket in the KASTT Discord",
+  "url": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.2/ORBIT.Academy.Setup.1.2.2.exe",
+  "setup": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.2/ORBIT.Academy.Setup.1.2.2.exe",
+  "portable": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.2/ORBIT.Academy.Portable.1.2.2.exe",
+  "size": 101248137,
+  "sha512": "4wyOSCzoF0gai5g0gh+IvvOY318zJrPEIPIEuZCoabU14jvtWCuW2ZTRyj3S1U1BI63UOOxMOZRluFRHaWhRpA==",
+  "page": "https://github.com/0utkastt666/Kast-applications/releases/tag/academy_v1.2.2"
 }

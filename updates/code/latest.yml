@@ -1,8 +1,8 @@
-version: 1.2.1
+version: 1.2.2
 files:
-  - url: https://github.com/0utkastt666/Kast-applications/releases/download/code_v1.2.1/ORBIT.Code.Setup.1.2.1.exe
-    sha512: q7zCi/FMctKj/jUxF0t42mMObUHmc91Zt0WmFrSS/aN9WP8vAr1IvqnDV0pv5pCAKe6uAH/z6Y+ki3WIhXsS7w==
-    size: 104147439
-path: https://github.com/0utkastt666/Kast-applications/releases/download/code_v1.2.1/ORBIT.Code.Setup.1.2.1.exe
-sha512: q7zCi/FMctKj/jUxF0t42mMObUHmc91Zt0WmFrSS/aN9WP8vAr1IvqnDV0pv5pCAKe6uAH/z6Y+ki3WIhXsS7w==
-releaseDate: '2026-11-17T06:03:30.844Z'
+  - url: https://github.com/0utkastt666/Kast-applications/releases/download/code_v1.2.2/ORBIT.Code.Setup.1.2.2.exe
+    sha512: DVjbGI9nyXcodTqd/VjCoWxGbEsnRMZy9Qi/5FYKwrBov3bsm5GqsBIaM2sodV1CeGS1Gfdyuu12ODJC0F4Gmg==
+    size: 104150213
+path: https://github.com/0utkastt666/Kast-applications/releases/download/code_v1.2.2/ORBIT.Code.Setup.1.2.2.exe
+sha512: DVjbGI9nyXcodTqd/VjCoWxGbEsnRMZy9Qi/5FYKwrBov3bsm5GqsBIaM2sodV1CeGS1Gfdyuu12ODJC0F4Gmg==
+releaseDate: '2026-11-17T07:22:39.757Z'

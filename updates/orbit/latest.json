@@ -1,13 +1,13 @@
 {
   "app": "orbit",
   "name": "ORBIT",
-  "version": "1.2.1",
-  "date": "2026-11-17T06:03:31.637Z",
-  "notes": "New learning programs for every coding language, custom icons, smoother performance and UI fixes",
-  "url": "https://github.com/0utkastt666/Kast-applications/releases/download/orbit_v1.2.1/ORBIT.Setup.1.2.1.exe",
-  "setup": "https://github.com/0utkastt666/Kast-applications/releases/download/orbit_v1.2.1/ORBIT.Setup.1.2.1.exe",
-  "portable": "https://github.com/0utkastt666/Kast-applications/releases/download/orbit_v1.2.1/ORBIT.Portable.1.2.1.exe",
-  "size": 101280880,
-  "sha512": "nAKXX49vBwIh1kbDlggDaGsls9ZsIWwG0GN1bo5YT71SjeBMKsYv2WEVaBtomjERXpxV1fg2jT8Q+eh5ON9dGw==",
-  "page": "https://github.com/0utkastt666/Kast-applications/releases/tag/orbit_v1.2.1"
+  "version": "1.2.2",
+  "date": "2026-11-17T07:22:40.467Z",
+  "notes": "New Report an issue button in every app. Send a bug straight to Outkastt and it opens a ticket in the KASTT Discord",
+  "url": "https://github.com/0utkastt666/Kast-applications/releases/download/orbit_v1.2.2/ORBIT.Setup.1.2.2.exe",
+  "setup": "https://github.com/0utkastt666/Kast-applications/releases/download/orbit_v1.2.2/ORBIT.Setup.1.2.2.exe",
+  "portable": "https://github.com/0utkastt666/Kast-applications/releases/download/orbit_v1.2.2/ORBIT.Portable.1.2.2.exe",
+  "size": 101283014,
+  "sha512": "fdV4sVplfqlJZ4+MkB5QFdkWR+/4JNHqt7qC12rE8LucoWxD/8i18hfsqZ1v/1MdiX2omorRVcVAM95ecSmyTg==",
+  "page": "https://github.com/0utkastt666/Kast-applications/releases/tag/orbit_v1.2.2"
 }
