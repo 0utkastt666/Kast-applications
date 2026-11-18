@@ -1,13 +1,13 @@
 {
   "app": "academy",
   "name": "ORBIT Academy",
-  "version": "1.2.2",
-  "date": "2026-11-17T07:22:52.236Z",
-  "notes": "New Report an issue button in every app. Send a bug straight to Outkastt and it opens a ticket in the KASTT Discord",
-  "url": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.2/ORBIT.Academy.Setup.1.2.2.exe",
-  "setup": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.2/ORBIT.Academy.Setup.1.2.2.exe",
-  "portable": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.2.2/ORBIT.Academy.Portable.1.2.2.exe",
-  "size": 101248137,
-  "sha512": "4wyOSCzoF0gai5g0gh+IvvOY318zJrPEIPIEuZCoabU14jvtWCuW2ZTRyj3S1U1BI63UOOxMOZRluFRHaWhRpA==",
-  "page": "https://github.com/0utkastt666/Kast-applications/releases/tag/academy_v1.2.2"
+  "version": "1.3.0",
+  "date": "2026-11-18T17:08:38.188Z",
+  "notes": "Academy is now a game: a lesson map for every topic with stars, boss fights, typed answers, matching and code puzzles, plus a Daily Review that brings ideas back right before you forget them. ORBIT notes can now stick to your screen and stay on top of every app",
+  "url": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.3.0/ORBIT.Academy.Setup.1.3.0.exe",
+  "setup": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.3.0/ORBIT.Academy.Setup.1.3.0.exe",
+  "portable": "https://github.com/0utkastt666/Kast-applications/releases/download/academy_v1.3.0/ORBIT.Academy.Portable.1.3.0.exe",
+  "size": 101295450,
+  "sha512": "Uo2QQNo55il/GAglmm7ivlRsfdxX2Tun9nPrx+ASV10oLV9UGcmVI6uDu+Tix6FTNus64zfQ4SNr/j3JVkXjgQ==",
+  "page": "https://github.com/0utkastt666/Kast-applications/releases/tag/academy_v1.3.0"
 }
